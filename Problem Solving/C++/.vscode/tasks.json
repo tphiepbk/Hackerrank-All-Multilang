@@ -9,7 +9,7 @@
                 "-g",
                 "-o",
                 "hackerrank",
-                "MinimumDistances.cpp",
+                "NonDivisibleSubset.cpp",
             ],
             "group": {
                 "kind": "build",
